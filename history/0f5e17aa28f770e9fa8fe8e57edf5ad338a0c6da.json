@@ -1,0 +1,492 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 552,
+    "time": 1794023142,
+    "hash": "0f5e17aa28f770e9fa8fe8e57edf5ad338a0c6da"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1789129726,
+    "hash": "50d2de11afc63ffe5afe0cbdd6671cddf3bc58b6"
+  },
+  "README.md": {
+    "size": 1538,
+    "time": 1790045076,
+    "hash": "daae033ad7cc142abcfeb72e085c69c93cc53b2e"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1789129726,
+    "hash": "50d2de11afc63ffe5afe0cbdd6671cddf3bc58b6"
+  },
+  "assignments/readme.txt": {
+    "size": 309,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "assignments/光通信作业推导.pdf": {
+    "size": 31858349,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "assignments/课后作业-1.pdf": {
+    "size": 567558,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "assignments/课后作业-2.pdf": {
+    "size": 143120,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "assignments/课后作业-3.pdf": {
+    "size": 719363,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "assignments/课后作业-4.pdf": {
+    "size": 2117130,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1789129726,
+    "hash": "50d2de11afc63ffe5afe0cbdd6671cddf3bc58b6"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1789129726,
+    "hash": "50d2de11afc63ffe5afe0cbdd6671cddf3bc58b6"
+  },
+  "labs/2023311101_罗模煊_光纤视频传输网络实验.pdf": {
+    "size": 2547036,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "labs/2023311101_罗模煊_光纤通信原理综合实验.pdf": {
+    "size": 2461196,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "labs/光纤通信原理综合实验.docx": {
+    "size": 5479903,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "labs/光通信技术实验报告_实验二(2).docx": {
+    "size": 6924318,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "materials/4123.pdf": {
+    "size": 21500671,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "materials/DigitalCoherent.pdf": {
+    "size": 14770631,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1789129726,
+    "hash": "50d2de11afc63ffe5afe0cbdd6671cddf3bc58b6"
+  },
+  "notes/光通信技术总结.pdf": {
+    "size": 81408135,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "notes/光通信技术期末复习资料.md": {
+    "size": 20999,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "notes/光通信技术期末复习资料.pdf": {
+    "size": 540907,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "notes/光通信技术框架版详细复习资料.md": {
+    "size": 59343,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "notes/光通信技术框架版详细复习资料.pdf": {
+    "size": 1602648,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "notes/光通信考前速记.pdf": {
+    "size": 774435,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "notes/补充 噪声与探测知识点导图.pdf": {
+    "size": 1624676,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "readme.toml": {
+    "size": 1610,
+    "time": 1790045094,
+    "hash": "32b51dd98bd8b95b8a25a97820f84621ddc87358"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1789129726,
+    "hash": "50d2de11afc63ffe5afe0cbdd6671cddf3bc58b6"
+  },
+  "slides/2026光通信技术课堂板书(1).pdf": {
+    "size": 2611920,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/Ch0 .pdf": {
+    "size": 1331683,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/Ch1 光通信背景+课程内容拓扑.pdf": {
+    "size": 662144,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/Ch10_相干光系统数字调制_中文.pdf": {
+    "size": 23106118,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/Ch11Sec1-2 噪声源与信噪比分析_中文.pdf": {
+    "size": 2144565,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/Ch11Sec3-5误码率灵敏度链路预算_中文.pdf": {
+    "size": 1784272,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/Ch12 DSP_Carrier Recovery_中文修改.pdf": {
+    "size": 1361092,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/Ch12 DSP_Clock_recovery 中文修改.pdf": {
+    "size": 865492,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/Ch12 DSP_Equlazation_中文修改.pdf": {
+    "size": 1294439,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/Ch1_光纤通信简介 _中文.pdf": {
+    "size": 5940879,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/Ch2_光学概述_中文.pdf": {
+    "size": 1230008,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/Ch3_波动学基础_中文.pdf": {
+    "size": 1761868,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/Ch4_集成光波导 _中文.pdf": {
+    "size": 2256797,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/Ch5_光纤波导_中文.pdf": {
+    "size": 2319691,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/Ch6_光源与光放大器_中文.pdf": {
+    "size": 4422669,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/Ch7_光检测器_中文.pdf": {
+    "size": 1074658,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/Ch9_分布式网络与光纤器件_中文.pdf": {
+    "size": 2676844,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-01.png": {
+    "size": 602088,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-02.png": {
+    "size": 598609,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-03.png": {
+    "size": 498278,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-04.png": {
+    "size": 627998,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-05.png": {
+    "size": 295278,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-06.png": {
+    "size": 355918,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-07.png": {
+    "size": 355527,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-08.png": {
+    "size": 292731,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-09.png": {
+    "size": 413186,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-10.png": {
+    "size": 561447,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-11.png": {
+    "size": 329481,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-12.png": {
+    "size": 415011,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-13.png": {
+    "size": 609771,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-14.png": {
+    "size": 657038,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-15.png": {
+    "size": 449593,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-16.png": {
+    "size": 553559,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-17.png": {
+    "size": 645658,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-18.png": {
+    "size": 616852,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-19.png": {
+    "size": 475221,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-20.png": {
+    "size": 671512,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-21.png": {
+    "size": 581303,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-22.png": {
+    "size": 544846,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-23.png": {
+    "size": 531884,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-24.png": {
+    "size": 618055,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-25.png": {
+    "size": 560789,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-26.png": {
+    "size": 556965,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-27.png": {
+    "size": 569241,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-28.png": {
+    "size": 690844,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-29.png": {
+    "size": 637257,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board-30.png": {
+    "size": 522239,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board_sheet_1.jpg": {
+    "size": 512859,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board_sheet_2.jpg": {
+    "size": 445700,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board_sheet_3.jpg": {
+    "size": 541728,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board_sheet_4.jpg": {
+    "size": 561325,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/board_pages/board_sheet_5.jpg": {
+    "size": 571060,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/texts/2026光通信技术课堂板书(1).txt": {
+    "size": 201,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/texts/4123.txt": {
+    "size": 381,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/texts/Ch0 .txt": {
+    "size": 2307,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/texts/Ch1 光通信背景+课程内容拓扑.txt": {
+    "size": 4344,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/texts/Ch10_相干光系统数字调制_中文.txt": {
+    "size": 16547,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/texts/Ch11Sec1-2 噪声源与信噪比分析_中文.txt": {
+    "size": 36437,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/texts/Ch11Sec3-5误码率灵敏度链路预算_中文.txt": {
+    "size": 27191,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/texts/Ch12 DSP_Carrier Recovery_中文修改.txt": {
+    "size": 18359,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/texts/Ch12 DSP_Clock_recovery 中文修改.txt": {
+    "size": 10458,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/texts/Ch12 DSP_Equlazation_中文修改.txt": {
+    "size": 27607,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/texts/Ch1_光纤通信简介.txt": {
+    "size": 30163,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/texts/Ch2_光学概述_中文.txt": {
+    "size": 18164,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/texts/Ch3_波动学基础_中文.txt": {
+    "size": 42529,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/texts/Ch4_集成光波导 _中文.txt": {
+    "size": 47355,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/texts/Ch5_光纤波导_中文.txt": {
+    "size": 84924,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/texts/Ch6_光源与光放大器_中文.txt": {
+    "size": 71787,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/texts/Ch7_光检测器_中文.txt": {
+    "size": 33113,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  },
+  "slides/光接收机灵敏度.pptx": {
+    "size": 4556720,
+    "time": 1789134124,
+    "hash": "7ae4e301f2f30a043e634e1dc89ca9eda0068b6c"
+  }
+}
